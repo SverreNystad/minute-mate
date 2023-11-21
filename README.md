@@ -1,5 +1,9 @@
 # MinuteMate
 In today’s fast-paced business environment, effective meeting management is key. MinuteMaster revolutionizes this process by seamlessly transforming your spoken words into well-organized, actionable meeting minutes.
+<div align="center">
+<img src="https://github.com/SverreNystad/minute-mate/assets/89105607/c9f97053-2485-4980-8cf2-375c738f1669">
+</div>
+
 
 ## Features:
 * **Intuitive Recording:** Start by recording your meeting directly within the app. Whether it’s a quick team huddle or a comprehensive board meeting, MinuteMaster captures every word with crystal-clear audio quality.
